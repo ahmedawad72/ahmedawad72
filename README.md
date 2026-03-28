@@ -1,15 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ahmed Awad 👋
 
 ## .NET Backend Developer | Problem Solver | Database Enthusiast
 
-Fresh backend developer diving deep into the .NET ecosystem, building scalable systems, and sharpening problem-solving skills one LeetCode problem at a time.
+Fresh backend developer diving deep into the .NET ecosystem, building scalable systems, and sharpening problem-solving skills on LeetCode.
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Backend & Frameworks**
-- `.NET Core / .NET 8` - Building modern web APIs
+- `.NET Core ` - Building modern web APIs
 - `ASP.NET Core` - RESTful services & middleware
 - `Entity Framework Core` - ORM & database management
 - `C#` - Primary programming language
@@ -45,50 +45,6 @@ var currentGoals = new List<string>
 
 ---
 
-### 📊 LeetCode Journey
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YourLeetCodeUsername?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
-
-**Problem Solving Focus:**
-- Data Structures: Arrays, LinkedLists, Trees, Graphs, HashMaps
-- Algorithms: Sorting, Searching, Dynamic Programming, Greedy
-- Patterns: Two Pointers, Sliding Window, BFS/DFS, Backtracking
-
----
-
-### 🚀 Featured Projects
-
-#### [Project Name - .NET API]
-> RESTful API built with ASP.NET Core featuring authentication, CRUD operations, and clean architecture
-- **Tech:** .NET 8, EF Core, SQL Server, JWT Authentication
-- **Highlights:** Repository pattern, DTOs, AutoMapper, error handling
-
-#### [LeetCode Solutions Repository]
-> Comprehensive collection of algorithm solutions with detailed explanations
-- **Tech:** C#, Data Structures & Algorithms
-- **Highlights:** Time/space complexity analysis, multiple approaches, unit tests
-
-#### [Database Design Project]
-> [Brief description of a database-focused project]
-- **Tech:** SQL Server, stored procedures, indexing strategies
-- **Highlights:** Normalized schema design, query optimization, performance tuning
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🌱 Learning Path
 
 **Currently Exploring:**
@@ -108,11 +64,9 @@ var currentGoals = new List<string>
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **LeetCode:** [Your LeetCode Profile](https://leetcode.com/yourprofile)
-- **Email:** your.email@example.com
-- **Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(optional)*
-
+- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-awad-199bab1b7/))
+- **LeetCode:** [Your LeetCode Profile]([https://leetcode.com/yourprofile](https://leetcode.com/u/aawad1130/))
+- **Email:** a7med3wad3mar@gmail.com
 ---
 
 ### 💡 Daily Practice
