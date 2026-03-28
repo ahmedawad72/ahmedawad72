@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Awad 👋
 
-## .NET Backend Developer | Problem Solver | Database Enthusiast
+## Software Engineer| .NET Backend Developer 
 
 Fresh backend developer diving deep into the .NET ecosystem, building scalable systems, and sharpening problem-solving skills on LeetCode.
 
