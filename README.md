@@ -69,15 +69,4 @@ var currentGoals = new List<string>
 - **Email:** a7med3wad3mar@gmail.com
 ---
 
-### 💡 Daily Practice
 
-```sql
--- My approach to growth
-SELECT skill, progress
-FROM developer_journey
-WHERE consistency = 'daily'
-  AND passion = 'high'
-ORDER BY learning_curve DESC;
-```
-
----
