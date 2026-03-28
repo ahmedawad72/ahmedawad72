@@ -64,8 +64,8 @@ var currentGoals = new List<string>
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-awad-199bab1b7/))
-- **LeetCode:** [Your LeetCode Profile]([https://leetcode.com/yourprofile](https://leetcode.com/u/aawad1130/))
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ahmed-awad-199bab1b7/)
+- **LeetCode:** [LeetCode](https://leetcode.com/u/aawad1130/)
 - **Email:** a7med3wad3mar@gmail.com
 ---
 
@@ -81,11 +81,3 @@ ORDER BY learning_curve DESC;
 ```
 
 ---
-
-<div align="center">
-  
-**"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie**
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square)
-
-</div>
