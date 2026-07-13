@@ -67,6 +67,7 @@ var currentGoals = new List<string>
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ahmed-awad-199bab1b7/)
 - **LeetCode:** [LeetCode](https://leetcode.com/u/aawad1130/)
 - **Email:** a7med3wad3mar@gmail.com
+- **Portfolio:** [Portfolio](https://ahmedawad72.github.io/)
 ---
 
 
